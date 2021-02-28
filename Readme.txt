@@ -1,0 +1,4 @@
+-- Make Sure "MFC Options" are installed in VS
+-- Works on the basis of Document=>Views
+-- Store all the data in Document
+-- Use View(dialogs, etc) to display the data
